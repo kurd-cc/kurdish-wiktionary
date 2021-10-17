@@ -11,7 +11,7 @@ It is helpful to get the following of Kurdish Wiktionary words:
 - Sounds of the Kurdish word
 <br>
 
-https://www.npmjs.com/package/kurdish-wijtionary
+https://www.npmjs.com/package/kurdish-wiktionary
 <br> 
 
 ### Installation:
