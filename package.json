@@ -1,0 +1,32 @@
+{
+  "name": "kurdish-wiktionary",
+  "version": "1.0.0",
+  "description": "A parser for the kurdish wiktionary",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurd-cc/kurdish-wiktionary.git"
+  },
+  "keywords": [
+    "kurdish",
+    "kurmanji",
+    "language",
+    "wiktionary",
+    "dictionary",
+    "dataset",
+    "parser"
+  ],
+  "author": "Jagar Yousef <jagar.yousef@gmail.com> (jagar.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurd-cc/kurdish-wiktionary/issues"
+  },
+  "homepage": "https://github.com/kurd-cc/kurdish-wiktionary#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
